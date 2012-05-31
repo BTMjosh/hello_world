@@ -1,0 +1,8 @@
+1338468437
+Application	C:/Sites/hello_world/config/application.rb	  class Application 
+ApplicationController	C:/Sites/hello_world/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/hello_world/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/hello_world/test/performance/browsing_test.rb	class BrowsingTest 
+HelloWorld	C:/Sites/hello_world/config/application.rb	module HelloWorld
+TestCase	C:/Sites/hello_world/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	C:/Sites/hello_world/test/performance/browsing_test.rb	  def test_homepage
